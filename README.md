@@ -3,7 +3,7 @@ sam_socket_repeater
 
 socket repeater
 
-一个简单的socket转发器，
+涓�涓畝鍗曠殑socket杞彂鍣紝
 
 Welcome use sam proxy, this.is a socket repeater
 
